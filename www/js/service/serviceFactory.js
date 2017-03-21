@@ -24,7 +24,7 @@ ionicModule.factory('services', function ($http,$ionicLoading,$httpParamSerializ
     }
 
     // to get all services for unit
-    function register(user, callback) {
+    function register(picURI, user, callback) {
         $ionicLoading.show({
             template: 'Loading...'
         });
@@ -32,7 +32,7 @@ ionicModule.factory('services', function ($http,$ionicLoading,$httpParamSerializ
             $ionicLoading.hide()
             console.log("Code = " + r.responseCode);
             console.log("Response = " + r.response);
-            callback(r.response);
+            callback(JSON.parse(r.response));
             console.log("Sent = " + r.bytesSent);
         }
 
@@ -44,18 +44,35 @@ ionicModule.factory('services', function ($http,$ionicLoading,$httpParamSerializ
             console.log("upload error target " + error.target);
         }
 
-        var options = new FileUploadOptions();
-        var headers={'x-access-token': x_access_token};
-        options.headers = headers;
-        options.chunkedMode = false;
-        options.fileKey = "profile_image";
-        options.fileName = picURI.substr(picURI.lastIndexOf('/') + 1);
-        options.mimeType = "image/*";
+        if(picURI) {
+            var options = new FileUploadOptions();
+            var headers={'x-access-token': x_access_token};
+            options.headers = headers;
+            options.chunkedMode = false;
+            options.fileKey = "profile_image";
+            options.fileName = picURI.substr(picURI.lastIndexOf('/') + 1);
+            options.mimeType = "image/*";
 
-        options.params = user;
+            options.params = user;
 
-        var ft = new FileTransfer();
-        ft.upload(picURI, encodeURI(baseURL + 'register'), win, fail, options);
+            var ft = new FileTransfer();
+            ft.upload(picURI, encodeURI(baseURL + 'register'), win, fail, options);
+        }else{
+            $http({
+                url: baseURL + 'register',
+                method: "POST",
+                headers: {'x-access-token': x_access_token },
+                data:user
+            }).success(function (res, req) {
+                $ionicLoading.hide()
+                console.log(JSON.stringify(user))
+                console.log(JSON.stringify(res))
+                return callback(res);
+            }).error(function (error) {
+                $ionicLoading.hide()
+                return callback(false);
+            });
+        }
     }
 
     function forgotPassword(user, callback) {
@@ -90,10 +107,10 @@ ionicModule.factory('services', function ($http,$ionicLoading,$httpParamSerializ
         }).success(function (res, req) {
             $ionicLoading.hide()
             console.log(res)
-            return callback(res);
+            callback(res);
         }).error(function (error) {
             $ionicLoading.hide()
-            return callback(false);
+            callback(false);
         });
     }
     // to get all services for unit

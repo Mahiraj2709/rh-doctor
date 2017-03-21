@@ -93,5 +93,8 @@ var ionicModule = angular.module(ionicApplicationName, ['ionic', 'starter.contro
                 }
             })
         // if none of the above states are matched, use this as the fallback
-        $urlRouterProvider.otherwise('/app/login');
+        if (localStorage.getItem('login')) {
+            $urlRouterProvider.otherwise('/app/home');
+        } else
+            $urlRouterProvider.otherwise('/app/login');
     });

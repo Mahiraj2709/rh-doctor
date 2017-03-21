@@ -1,5 +1,5 @@
 angular.module('starter.controllers', [])
-    .controller('AppCtrl', function ($scope, $ionicModal, $timeout, services, popups) {
+    .controller('AppCtrl', function ($scope, $ionicModal, $timeout, services, popups,$ionicHistory,$location,$rootScope) {
 
         // With the new view caching in Ionic, Controllers are only called
         // when they are recreated or on app start, instead of every page change.
@@ -51,7 +51,7 @@ angular.module('starter.controllers', [])
                         window.localStorage.removeItem("porfile");
                         window.localStorage.removeItem("login");
                         $ionicHistory.clearHistory()
-                        $ionicHistory.clearCache().then(function () {$location.url('/app/login/')})
+                        $ionicHistory.clearCache().then(function () {$location.url('/app/login')})
                     }else {
                         popups.showAlert(response.data.msg)
                     }

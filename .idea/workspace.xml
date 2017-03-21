@@ -1,7 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d531c13-255d-4d14-af16-27f4b5b4284f" name="Default" comment="" />
+    <list default="true" id="2d531c13-255d-4d14-af16-27f4b5b4284f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/default_image.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-land-hdpi/screen.png" afterPath="$PROJECT_DIR$/res/drawable-land-hdpi/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-land-ldpi/screen.png" afterPath="$PROJECT_DIR$/res/drawable-land-ldpi/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-land-mdpi/screen.png" afterPath="$PROJECT_DIR$/res/drawable-land-mdpi/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-land-xhdpi/screen.png" afterPath="$PROJECT_DIR$/res/drawable-land-xhdpi/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-land-xxhdpi/screen.png" afterPath="$PROJECT_DIR$/res/drawable-land-xxhdpi/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-land-xxxhdpi/screen.png" afterPath="$PROJECT_DIR$/res/drawable-land-xxxhdpi/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-port-hdpi/screen.png" afterPath="$PROJECT_DIR$/res/drawable-port-hdpi/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-port-ldpi/screen.png" afterPath="$PROJECT_DIR$/res/drawable-port-ldpi/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-port-mdpi/screen.png" afterPath="$PROJECT_DIR$/res/drawable-port-mdpi/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-port-xhdpi/screen.png" afterPath="$PROJECT_DIR$/res/drawable-port-xhdpi/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-port-xxhdpi/screen.png" afterPath="$PROJECT_DIR$/res/drawable-port-xxhdpi/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-port-xxxhdpi/screen.png" afterPath="$PROJECT_DIR$/res/drawable-port-xxxhdpi/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/mipmap-hdpi/icon.png" afterPath="$PROJECT_DIR$/res/mipmap-hdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/mipmap-ldpi/icon.png" afterPath="$PROJECT_DIR$/res/mipmap-ldpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/mipmap-mdpi/icon.png" afterPath="$PROJECT_DIR$/res/mipmap-mdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/mipmap-xhdpi/icon.png" afterPath="$PROJECT_DIR$/res/mipmap-xhdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/mipmap-xxhdpi/icon.png" afterPath="$PROJECT_DIR$/res/mipmap-xxhdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/mipmap-xxxhdpi/icon.png" afterPath="$PROJECT_DIR$/res/mipmap-xxxhdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/icon/drawable-hdpi-icon.png" afterPath="$PROJECT_DIR$/resources/android/icon/drawable-hdpi-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/icon/drawable-ldpi-icon.png" afterPath="$PROJECT_DIR$/resources/android/icon/drawable-ldpi-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/icon/drawable-mdpi-icon.png" afterPath="$PROJECT_DIR$/resources/android/icon/drawable-mdpi-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/icon/drawable-xhdpi-icon.png" afterPath="$PROJECT_DIR$/resources/android/icon/drawable-xhdpi-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/icon/drawable-xxhdpi-icon.png" afterPath="$PROJECT_DIR$/resources/android/icon/drawable-xxhdpi-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/icon/drawable-xxxhdpi-icon.png" afterPath="$PROJECT_DIR$/resources/android/icon/drawable-xxxhdpi-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/splash/drawable-land-hdpi-screen.png" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-land-hdpi-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/splash/drawable-land-ldpi-screen.png" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-land-ldpi-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/splash/drawable-land-mdpi-screen.png" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-land-mdpi-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/splash/drawable-land-xhdpi-screen.png" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-land-xhdpi-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/splash/drawable-land-xxhdpi-screen.png" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-land-xxhdpi-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/splash/drawable-land-xxxhdpi-screen.png" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-land-xxxhdpi-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/splash/drawable-port-hdpi-screen.png" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-port-hdpi-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/splash/drawable-port-ldpi-screen.png" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-port-ldpi-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/splash/drawable-port-mdpi-screen.png" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-port-mdpi-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/splash/drawable-port-xhdpi-screen.png" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-port-xhdpi-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/splash/drawable-port-xxhdpi-screen.png" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-port-xxhdpi-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/android/splash/drawable-port-xxxhdpi-screen.png" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-port-xxxhdpi-screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/splash.png" afterPath="$PROJECT_DIR$/resources/splash.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/style.css" afterPath="$PROJECT_DIR$/www/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/app.js" afterPath="$PROJECT_DIR$/www/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/config.js" afterPath="$PROJECT_DIR$/www/js/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/controller/forgotPasswordController.js" afterPath="$PROJECT_DIR$/www/js/controller/forgotPasswordController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/controller/homeController.js" afterPath="$PROJECT_DIR$/www/js/controller/homeController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/controller/loginControllers.js" afterPath="$PROJECT_DIR$/www/js/controller/loginControllers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/controller/registerController.js" afterPath="$PROJECT_DIR$/www/js/controller/registerController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/controllers.js" afterPath="$PROJECT_DIR$/www/js/controllers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/service/popupFactory.js" afterPath="$PROJECT_DIR$/www/js/service/popupFactory.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/service/serviceFactory.js" afterPath="$PROJECT_DIR$/www/js/service/serviceFactory.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/dialog/terms_n_condition.html" afterPath="$PROJECT_DIR$/www/templates/dialog/terms_n_condition.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/login.html" afterPath="$PROJECT_DIR$/www/templates/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/menu.html" afterPath="$PROJECT_DIR$/www/templates/menu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/templates/sign_up.html" afterPath="$PROJECT_DIR$/www/templates/sign_up.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,33 +73,51 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="forgotPasswordController.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/controller/forgotPasswordController.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="34" column="2" lean-forward="true" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
-              <folding>
-                <element signature="e#0#40#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="registerController.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/js/controller/registerController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+            <state relative-caret-position="935">
+              <caret line="55" column="18" lean-forward="false" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="serviceFactory.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="loginControllers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/controller/loginControllers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/templates/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sign_up.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/templates/sign_up.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="serviceFactory.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/js/service/serviceFactory.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="96" column="11" lean-forward="true" selection-start-line="96" selection-start-column="11" selection-end-line="96" selection-end-column="11" />
+            <state relative-caret-position="272">
+              <caret line="34" column="43" lean-forward="false" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -53,68 +126,18 @@
       <file leaf-file-name="homeController.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/js/controller/homeController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="controllers.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/controllers.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/index.html">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+              <caret line="15" column="63" lean-forward="false" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/css/style.css">
+      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="70" column="16" lean-forward="true" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="menu.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/www/templates/menu.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="38" lean-forward="false" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="45" column="21" lean-forward="true" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="forgot_password.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/templates/forgot_password.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+            <state relative-caret-position="119">
+              <caret line="7" column="71" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="71" />
               <folding />
             </state>
           </provider>
@@ -137,7 +160,16 @@
       <find>pop</find>
       <find>required=&quot;&quot;</find>
       <find>.popup-body</find>
+      <find>validate</find>
+      <find>picURI</find>
+      <find>vali</find>
+      <find>forgot_pass</find>
+      <find>term-condition</find>
+      <find>$ionicHistory</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -147,23 +179,25 @@
         <option value="$PROJECT_DIR$/www/templates/screen4.html" />
         <option value="$PROJECT_DIR$/www/templates/dialog/image_chooser.html" />
         <option value="$PROJECT_DIR$/www/js/controller/termCondtionCtrl.js" />
-        <option value="$PROJECT_DIR$/www/templates/dialog/terms_n_condition.html" />
-        <option value="$PROJECT_DIR$/www/js/service/popupFactory.js" />
         <option value="$PROJECT_DIR$/config.xml" />
         <option value="$PROJECT_DIR$/www/js/service/imageService.js" />
-        <option value="$PROJECT_DIR$/www/js/config.js" />
-        <option value="$PROJECT_DIR$/www/templates/sign_up.html" />
-        <option value="$PROJECT_DIR$/www/templates/login.html" />
-        <option value="$PROJECT_DIR$/www/js/controller/loginControllers.js" />
-        <option value="$PROJECT_DIR$/www/index.html" />
-        <option value="$PROJECT_DIR$/www/css/style.css" />
-        <option value="$PROJECT_DIR$/www/js/controller/forgotPasswordController.js" />
-        <option value="$PROJECT_DIR$/www/js/app.js" />
-        <option value="$PROJECT_DIR$/www/js/controller/registerController.js" />
         <option value="$PROJECT_DIR$/www/templates/forgot_password.html" />
-        <option value="$PROJECT_DIR$/www/js/controllers.js" />
-        <option value="$PROJECT_DIR$/www/js/service/serviceFactory.js" />
+        <option value="$PROJECT_DIR$/www/js/filter/commonFilters.js" />
+        <option value="$PROJECT_DIR$/www/js/controller/forgotPasswordController.js" />
+        <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/www/js/app.js" />
+        <option value="$PROJECT_DIR$/www/templates/dialog/terms_n_condition.html" />
+        <option value="$PROJECT_DIR$/www/css/style.css" />
+        <option value="$PROJECT_DIR$/www/js/service/popupFactory.js" />
+        <option value="$PROJECT_DIR$/www/js/controller/loginControllers.js" />
+        <option value="$PROJECT_DIR$/www/js/config.js" />
         <option value="$PROJECT_DIR$/www/templates/menu.html" />
+        <option value="$PROJECT_DIR$/www/js/controllers.js" />
+        <option value="$PROJECT_DIR$/www/js/controller/homeController.js" />
+        <option value="$PROJECT_DIR$/www/templates/login.html" />
+        <option value="$PROJECT_DIR$/www/templates/sign_up.html" />
+        <option value="$PROJECT_DIR$/www/js/controller/registerController.js" />
+        <option value="$PROJECT_DIR$/www/js/service/serviceFactory.js" />
       </list>
     </option>
   </component>
@@ -174,6 +208,32 @@
     <gulpfiles>
       <GulpfileState>
         <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+        <tasks>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="sass" />
+            </dependencies>
+            <task-name>default</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>sass</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="sass" />
+            </dependencies>
+            <task-name>watch</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="git-check" />
+            </dependencies>
+            <task-name>install</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>git-check</task-name>
+          </GulpTaskState>
+        </tasks>
       </GulpfileState>
     </gulpfiles>
     <sorting>DEFINITION_ORDER</sorting>
@@ -261,7 +321,73 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dialog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReviveHydrationDoctor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReviveHydrationDoctor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReviveHydrationDoctor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReviveHydrationDoctor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReviveHydrationDoctor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReviveHydrationDoctor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="filter" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -287,6 +413,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReviveHydrationDoctor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReviveHydrationDoctor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -295,22 +439,23 @@
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ReviveHydrationPatient" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="SearchEverywhereHistoryKey" value="menu&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/templates/menu.html&#10;serviceFa&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/js/service/serviceFactory.js&#10;fo&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/templates/forgot_password.html&#10;regi&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/js/controller/registerController.js&#10;forg&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/templates/forgot_password.html&#10;app.js&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/js/app.js&#10;forgo&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/js/controller/forgotPasswordController.js&#10;style.css&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/css/style.css&#10;inde&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/index.html&#10;login&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/templates/login.html&#10;sign&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/templates/sign_up.html&#10;register&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/js/controller/registerController.js&#10;image&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/js/service/imageService.js&#10;servic&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/js/service/serviceFactory.js&#10;sig&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/templates/sign_up.html&#10;config.x&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/config.xml&#10;confi&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/js/config.js&#10;popupFa&#9;FILE&#9;file://D:/Angular/ReviveHydration/www/js/service/popupFactory.js&#10;css&#9;FILE&#9;file://D:/Angular/ReviveHydration/www/css/style.css&#10;ind&#9;FILE&#9;file://D:/Angular/ReviveHydration/www/index.html&#10;regis&#9;FILE&#9;file://D:/Angular/ReviveHydration/www/js/controller/registerController.js&#10;service&#9;FILE&#9;file://D:/Angular/ReviveHydration/www/js/service/serviceFactory.js&#10;index&#9;FILE&#9;file://D:/Angular/ReviveHydration/www/index.html&#10;popup&#9;FILE&#9;file://D:/Angular/ReviveHydration/www/js/service/popupFactory.js&#10;index.js&#9;FILE&#9;file://D:/Angular/ReviveHydration/plugins/cordova-plugin-camera/src/blackberry10/index.js&#10;style&#9;FILE&#9;file://D:/Angular/ReviveHydration/www/css/style.css&#10;index.&#9;FILE&#9;file://D:/Angular/ReviveHydration/www/index.html" />
+    <property name="SearchEverywhereHistoryKey" value="regis&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/js/controller/registerController.js&#10;sign&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/templates/sign_up.html&#10;sig&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/templates/sign_up.html&#10;home&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/js/controller/homeController.js&#10;servi&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/js/service/serviceFactory.js&#10;register&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/js/controller/registerController.js&#10;menu&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/templates/menu.html&#10;confi&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/js/config.js&#10;login&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/js/controller/loginControllers.js&#10;cont&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/js/controllers.js&#10;contr&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/js/controllers.js&#10;popup&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/js/service/popupFactory.js&#10;style&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/css/style.css&#10;app.js&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/js/app.js&#10;forg&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/templates/forgot_password.html&#10;index&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/index.html&#10;serviceFa&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/js/service/serviceFactory.js&#10;fo&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/templates/forgot_password.html&#10;regi&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/js/controller/registerController.js&#10;forgo&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/js/controller/forgotPasswordController.js&#10;style.css&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/css/style.css&#10;inde&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/index.html&#10;image&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/js/service/imageService.js&#10;servic&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/www/js/service/serviceFactory.js&#10;config.x&#9;FILE&#9;file://D:/Angular/ReviveHydration/ReviveHydrationDoctor/config.xml&#10;popupFa&#9;FILE&#9;file://D:/Angular/ReviveHydration/www/js/service/popupFactory.js&#10;css&#9;FILE&#9;file://D:/Angular/ReviveHydration/www/css/style.css&#10;ind&#9;FILE&#9;file://D:/Angular/ReviveHydration/www/index.html&#10;service&#9;FILE&#9;file://D:/Angular/ReviveHydration/www/js/service/serviceFactory.js&#10;index.js&#9;FILE&#9;file://D:/Angular/ReviveHydration/plugins/cordova-plugin-camera/src/blackberry10/index.js&#10;index.&#9;FILE&#9;file://D:/Angular/ReviveHydration/www/index.html" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="D:\Angular\ReviveHydration\ReviveHydrationDoctor\node_modules\gulp" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Angular\ReviveHydration\www\js\service" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Angular\ReviveHydration\ReviveHydrationDoctor\www\img" />
       <recent name="D:\Angular\ReviveHydration\ReviveHydrationDoctor\www\js\controller" />
       <recent name="D:\Angular\ReviveHydration\ReviveHydrationDoctor\www\templates" />
       <recent name="D:\Angular\ReviveHydration\www" />
       <recent name="D:\Angular\ReviveHydration\www\js\controller" />
-      <recent name="D:\Angular\ReviveHydration\www\templates\dialog" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Angular\ReviveHydration\www\js\service" />
     </key>
   </component>
   <component name="RunManager">
@@ -390,39 +535,69 @@
       <workItem from="1488969420964" duration="6347000" />
       <workItem from="1489036797205" duration="12134000" />
       <workItem from="1489122027144" duration="4509000" />
-      <workItem from="1489129329071" duration="7813000" />
+      <workItem from="1489129329071" duration="8553000" />
+      <workItem from="1489665153753" duration="6412000" />
+      <workItem from="1489987238173" duration="16833000" />
+      <workItem from="1490098834935" duration="867000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30803000" />
+    <option name="totallyTimeSpent" value="55655000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12420786" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12420786" sideWeight="0.50803214" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19518378" sideWeight="0.49196786" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23822342" sideWeight="0.50253487" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5397039" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.55989236" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23822342" sideWeight="0.49746513" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -459,7 +634,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1156">
           <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -467,7 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -482,7 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="34" column="46" lean-forward="false" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -518,7 +690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -594,13 +765,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/filter/commonFilters.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plugins/cordova-plugin-camera/src/blackberry10/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-306">
@@ -612,7 +776,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -623,36 +786,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/controller/termCondtionCtrl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="89" lean-forward="false" selection-start-line="8" selection-start-column="89" selection-end-line="8" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/dialog/terms_n_condition.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/service/popupFactory.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-          <folding>
-            <element signature="e#495#1199#0" expanded="false" />
-            <element signature="e#1224#1909#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="27" lean-forward="false" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -660,7 +797,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="144" column="16" lean-forward="false" selection-start-line="144" selection-start-column="8" selection-end-line="144" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -668,25 +804,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="44" column="11" lean-forward="true" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#40#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/sign_up.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="46" column="22" lean-forward="true" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -694,65 +811,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/login.html">
+    <entry file="file://$PROJECT_DIR$/www/js/controller/termCondtionCtrl.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="11" lean-forward="true" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/controller/loginControllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="66" lean-forward="false" selection-start-line="3" selection-start-column="66" selection-end-line="3" selection-end-column="66" />
-          <folding />
+        <state relative-caret-position="136">
+          <caret line="8" column="89" lean-forward="false" selection-start-line="8" selection-start-column="89" selection-end-line="8" selection-end-column="89" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="70" column="16" lean-forward="true" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/controller/forgotPasswordController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="34" column="2" lean-forward="true" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#40#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="45" column="21" lean-forward="true" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/controller/registerController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
-          <folding />
+        <state relative-caret-position="505">
+          <caret line="59" column="32" lean-forward="false" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -760,38 +832,117 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/filter/commonFilters.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/controller/forgotPasswordController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="19" column="52" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="19" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="100" column="0" lean-forward="true" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/dialog/terms_n_condition.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="48" lean-forward="true" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="84" column="51" lean-forward="true" selection-start-line="84" selection-start-column="51" selection-end-line="84" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/service/popupFactory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="49" lean-forward="false" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="71" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="71" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/js/controller/homeController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        <state relative-caret-position="255">
+          <caret line="15" column="63" lean-forward="false" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/controllers.js">
+    <entry file="file://$PROJECT_DIR$/www/js/controller/loginControllers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        <state relative-caret-position="340">
+          <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/sign_up.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/controller/registerController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="18" lean-forward="false" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/js/service/serviceFactory.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="96" column="11" lean-forward="true" selection-start-line="96" selection-start-column="11" selection-end-line="96" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="38" lean-forward="false" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+        <state relative-caret-position="272">
+          <caret line="34" column="43" lean-forward="false" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
           <folding />
         </state>
       </provider>

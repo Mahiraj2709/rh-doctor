@@ -1,7 +1,7 @@
 /**
  * Created by admin on 2/6/2017.
  */
-ionicModule.controller('RegisterCtrl', function ($scope, $rootScope, services, popups,$location,images,$ionicPopup,$ionicModal ) {
+ionicModule.controller('RegisterCtrl', function ($scope, $ionicHistory, $rootScope, services, popups, $location, images, $ionicPopup, $ionicModal) {
 
     // When button is clicked, the popup will be shown...
     $scope.imageChooser = function (type) {
@@ -11,7 +11,6 @@ ionicModule.controller('RegisterCtrl', function ($scope, $rootScope, services, p
             scope: $scope,
         });
     };
-
     //scope close the pop-up on cancel icon clicked
     $scope.closePopUp = function () {
         $scope.myPopup.close();
@@ -20,16 +19,14 @@ ionicModule.controller('RegisterCtrl', function ($scope, $rootScope, services, p
         $scope.closePopUp()
         $scope.image = images.captureImage(function (image) {
             $scope.profilePic = image;
-        },function (error) {
-
+        }, function (error) {
         })
     }
     $scope.chooseImage = function () {
         $scope.closePopUp()
         $scope.image = images.chooseImage(function (image) {
             $scope.profilePic = image;
-        },function (error) {
-
+        }, function (error) {
         })
     }
     $scope.userRegiter = {
@@ -40,23 +37,24 @@ ionicModule.controller('RegisterCtrl', function ($scope, $rootScope, services, p
         mobile: undefined,
         email: undefined,
         landmark: undefined,
-        title:undefined,
-        degree:undefined,
-        affiliation:undefined,
+        title: undefined,
+        degree: undefined,
+        affiliation: undefined,
         pincode: '32232',
         usertype: '2',
         latitude: '28.545',
         longitude: '77.12345',
         password: undefined,
-        confirm_password:undefined,
-        acceptTns:false
+        confirm_password: undefined,
+        acceptTns: false
     }
-
     $scope.tns = false
     $scope.registerUser = function () {
         if (validUser()) {
-            services.register($scope.userRegiter, function (response) {
-                if(response.data.status == SUCCESS_STATUS) {
+            services.register($scope.profilePic, $scope.userRegiter, function (response) {
+                console.log("response status : " + JSON.stringify(response));
+                //var response = JSON.parse(response);
+                if (response.data.status == SUCCESS_STATUS) {
                     //$rootScope.login = 'Log Out'
                     window.localStorage.setItem("profile", JSON.stringify(response.data.user.ops[0]));
                     //popups.showMessage(response.response_data.msg)
@@ -65,19 +63,18 @@ ionicModule.controller('RegisterCtrl', function ($scope, $rootScope, services, p
                     $ionicHistory.clearCache().then(function () {
                         $location.url('/app/home')
                     })
-                }else {
+                } else {
                     popups.showAlert(response.data.msg)
                 }
             })
         }
     }
-
     function validUser() {
         console.log($scope.userRegiter)
         if ($scope.userRegiter.fullname == undefined || $scope.userRegiter.fullname == '') {
-            popups.showAlert("Username field can't be left blank!")
+            popups.showAlert("Username field can't be left blank")
             return false
-        }else if (!$scope.userRegiter.email ) {
+        } else if (!$scope.userRegiter.email) {
             popups.showAlert("Email field can't be left blank");
             return false
         } else if (!validEmail($scope.userRegiter.email)) {
@@ -107,11 +104,11 @@ ionicModule.controller('RegisterCtrl', function ($scope, $rootScope, services, p
         } else if ($scope.userRegiter.confirm_password == undefined) {
             popups.showAlert("Password length should be minimum 8");
             return false
-        }else if ($scope.userRegiter.confirm_password != $scope.userRegiter.password) {
+        } else if ($scope.userRegiter.confirm_password != $scope.userRegiter.password) {
             popups.showAlert("Passwords doesn't match. Please try again");
             return false
-        }else if (!$scope.userRegiter.acceptTns) {
-            popups.showAlert("Please accept terms and conditions to proceed!");
+        } else if (!$scope.userRegiter.acceptTns) {
+            popups.showAlert("Please accept terms and conditions to proceed");
             return false
         }
         return true
@@ -136,7 +133,7 @@ ionicModule.controller('RegisterCtrl', function ($scope, $rootScope, services, p
         }
     }
 
-    $scope.termCondition = function() {
+    $scope.termCondition = function () {
         $ionicModal.fromTemplateUrl('templates/dialog/terms_n_condition.html', {
             scope: $scope,
             animation: 'slide-in-up'
@@ -145,8 +142,7 @@ ionicModule.controller('RegisterCtrl', function ($scope, $rootScope, services, p
             $scope.modal.show();
         });
     }
-
     $scope.closeTermCondition = function () {
-        $scope.modal.close()
+        $scope.modal.remove()
     }
 })
