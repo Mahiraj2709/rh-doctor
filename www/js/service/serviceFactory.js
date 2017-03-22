@@ -1,10 +1,11 @@
 /**
  * Created by admin on 2/6/2017.
  */
-ionicModule.factory('services', function ($http,$ionicLoading,$httpParamSerializerJQLike) {
+ionicModule.factory('services', function ($http,$ionicLoading,$httpParamSerializerJQLike,popups) {
+    if(!popups.isOnline()) return
     function login(user, callback) {
         $ionicLoading.show({
-            template: ' Caricamento in corso...'
+            template: '<ion-spinner></ion-spinner> <br/> Loading content...'
         });
 
         $http({
@@ -25,8 +26,9 @@ ionicModule.factory('services', function ($http,$ionicLoading,$httpParamSerializ
 
     // to get all services for unit
     function register(picURI, user, callback) {
+        if(!popups.isOnline()) return
         $ionicLoading.show({
-            template: 'Loading...'
+            template: '<ion-spinner></ion-spinner> <br/> Loading content...'
         });
         var win = function (r) {
             $ionicLoading.hide()
@@ -76,8 +78,9 @@ ionicModule.factory('services', function ($http,$ionicLoading,$httpParamSerializ
     }
 
     function forgotPassword(user, callback) {
+        if(!popups.isOnline()) return
         $ionicLoading.show({
-            template: 'Loading...'
+            template: '<ion-spinner></ion-spinner> <br/> Loading content...'
         });
         $http({
             url: baseURL + 'forgetpassword',
@@ -96,8 +99,9 @@ ionicModule.factory('services', function ($http,$ionicLoading,$httpParamSerializ
 
     // to get all services for unit
     function logout(user, callback) {
+        if(!popups.isOnline()) return
         $ionicLoading.show({
-            template: 'Loading...'
+            template: '<ion-spinner></ion-spinner> <br/> Loading content...'
         });
         $http({
             url: baseURL + 'logout',
